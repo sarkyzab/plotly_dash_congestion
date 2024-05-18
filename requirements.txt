@@ -12,6 +12,7 @@ dash-html-components==2.0.0
 dash-table==5.0.0
 fiona==1.9.6
 Flask==3.0.3
+gunicorn==22.0.0
 geopandas==0.14.4
 idna==3.7
 importlib_metadata==7.1.0
